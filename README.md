@@ -1,3 +1,5 @@
+Development
+
 # Factorial Calculator
 
 This repository contains a simple Python script (`factorial.py`) that calculates the factorial of a positive integer.
